@@ -1,7 +1,7 @@
 import React, { useState } from 'react’;
 import { Card } from ‘@/components/ui/card’;
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, ResponsiveContainer } from 'recharts’;
-import { create, all } from ‘mathjs’;
+import { create, all } from 'mathjs’;
 
 const math = create(all);
 
