@@ -1,5 +1,5 @@
 import React, { useState } from 'react’;
-import { Card } from ‘@/components/ui/card’;
+import { Card } from ‘@/components/ui/card";
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, ResponsiveContainer } from 'recharts’;
 import { create, all } from 'mathjs’;
 
